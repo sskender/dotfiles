@@ -1,3 +1,6 @@
 [submodule "alacritty"]
 	path = alacritty
 	url = git@github.com:sskender/alacritty.git
+[submodule "tmux"]
+	path = tmux
+	url = git@github.com:sskender/tmux.git
