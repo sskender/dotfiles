@@ -18,3 +18,11 @@ Updating
 git pull
 git submodule update --init --recursive
 ```
+
+### Installation
+
+#### Alacritty
+
+```bash
+ln -s ~/Documents/dotfiles/alacritty/alacritty.toml ~/.alacritty.toml
+```
