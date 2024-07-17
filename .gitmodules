@@ -4,3 +4,6 @@
 [submodule "tmux"]
 	path = tmux
 	url = git@github.com:sskender/tmux.git
+[submodule "zshrc"]
+	path = zshrc
+	url = git@github.com:sskender/zshrc.git
