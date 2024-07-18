@@ -26,3 +26,15 @@ git submodule update --init --recursive
 ```bash
 ln -s ~/Documents/dotfiles/alacritty/alacritty.toml ~/.alacritty.toml
 ```
+
+#### Tmux
+
+```bash
+ln -s ~/Documents/dotfiles/tmux/tmux.conf ~/.tmux.conf
+```
+
+#### zshrc
+
+```bash
+ln -s ~/Documents/dotfiles/zshrc/zshrc ~/.zshrc
+```
