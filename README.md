@@ -33,6 +33,18 @@ ln -s ~/Documents/dotfiles/alacritty/alacritty.toml ~/.alacritty.toml
 ln -s ~/Documents/dotfiles/tmux/tmux.conf ~/.tmux.conf
 ```
 
+#### Vim
+
+```bash
+ln -s ~/Documents/dotfiles/vimrc/vimrc ~/.vimrc
+```
+
+#### Neovim
+
+```bash
+ln -s ~/Documents/dotfiles/vimrc/nvim ~/.config/nvim
+```
+
 #### zshrc
 
 ```bash

@@ -7,3 +7,6 @@
 [submodule "zshrc"]
 	path = zshrc
 	url = git@github.com:sskender/zshrc.git
+[submodule "vimrc"]
+	path = vimrc
+	url = git@github.com:sskender/vimrc.git
